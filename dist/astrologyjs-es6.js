@@ -2774,7 +2774,7 @@ var chart = createCommonjsModule(function (module, exports) {
                                 case 0:
                                     _context2.next = 2;
                                     return rp_1.default({
-                                        uri: "https://astro-api.azurewebsites.net/ephemeris.php",
+                                        uri: "https://stars.jok.io/ephemeris.php",
                                         qs: {
                                             date: date,
                                             lat: p.lat,
